@@ -1,0 +1,17 @@
+{
+  "name": "any-db-promise",
+  "version": "0.0.0",
+  "description": "any-db with promises",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rschaosid/any-db-promise.git"
+  },
+  "author": "Anders Cornell <rschaosid@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rschaosid/any-db-promise/issues"
+  },
+  "homepage": "https://github.com/rschaosid/any-db-promise"
+}
+
