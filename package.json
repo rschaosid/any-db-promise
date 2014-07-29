@@ -15,6 +15,7 @@
   "homepage": "https://github.com/rschaosid/any-db-promise",
   "dependencies": {
     "any-db": "^2.1.0",
-    "any-db-transaction": "^2.2.1"
+    "any-db-transaction": "^2.2.1",
+    "promise": "^5.0.0"
   }
 }
