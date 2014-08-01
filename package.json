@@ -1,6 +1,6 @@
 {
   "name": "any-db-promise",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "any-db with promises",
   "main": "index.js",
   "repository": {
